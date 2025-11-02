@@ -2,8 +2,8 @@
 type: assignment
 date: 2025-11-01T4:00:00+4:30
 title: 'Homework #1'
-pdf: /static_files/assignments/HW1_ICNSpr2025.pdf
-attachment: /static_files/assignments/Data_with_Psychopy.zip
+pdf: /static_files/assignments/ISIFall2025Homework1.pdf
+attachment: 
 solutions: 
 due_event: 
     type: due
