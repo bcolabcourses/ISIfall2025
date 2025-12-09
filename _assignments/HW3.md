@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2025-12-09T4:00:00+4:30
-title: 'Homework #2'
+title: 'Homework #3'
 pdf: /static_files/assignments/ISIFall2025Homework3.pdf
 attachment: 
 solutions: 
